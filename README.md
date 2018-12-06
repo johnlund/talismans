@@ -1,0 +1,2 @@
+# talismans
+Wordpress Collection Game
